@@ -1,0 +1,358 @@
+coding,col,n_total,n_pos,prevalence
+I10,Union#I10#I10 Essential (primary) hypertension,39257,20315,0.5174873271008992
+Block I10-I15,Union#Block I10-I15#I10-I15 Hypertensive diseases,34885,15943,0.4570159094166547
+Block I30-I52,Union#Block I30-I52#I30-I52 Other forms of heart disease,27354,8412,0.30752357973239747
+Block I20-I25,Union#Block I20-I25#I20-I25 Ischaemic heart diseases,25530,6588,0.2580493537015276
+Block I80-I89,Union#Block I80-I89#I80-I89 Diseases of veins| lymphatic vessels and lymph nodes| not elsewhere classified,25095,6153,0.24518828451882846
+I25,Union#I25#I25 Chronic ischaemic heart disease,24700,5758,0.2331174089068826
+I48,Union#I48#I48 Atrial fibrillation and flutter,23521,4579,0.19467709706219974
+I519,Union#I519#I51.9 Heart disease| unspecified,23058,4116,0.1785063752276867
+I20,Union#I20#I20 Angina pectoris,22963,4021,0.17510778208422245
+I251,Union#I251#I25.1 Atherosclerotic heart disease,22941,3999,0.17431672551327318
+I209,Union#I209#I20.9 Angina pectoris| unspecified,22527,3585,0.15914236249833533
+I259,Union#I259#I25.9 Chronic ischaemic heart disease| unspecified,22431,3489,0.15554366724622173
+Block I60-I69,Union#Block I60-I69#I60-I69 Cerebrovascular diseases,22247,3305,0.14855935631770575
+I21,Union#I21#I21 Acute myocardial infarction,22065,3123,0.1415363698164514
+I84,Union#I84#I84 Haemorrhoids,22009,3067,0.1393520832386751
+I489,Union#I489#I48.9 Atrial fibrillation and atrial flutter|  unspecified,21854,2912,0.13324791800128122
+I51,Union#I51#I51 Complications and ill-defined descriptions of heart disease,21698,2756,0.12701631486772974
+I83,Union#I83#I83 Varicose veins of lower extremities,21539,2597,0.12057198570035749
+I95,Union#I95#I95 Hypotension,21469,2527,0.11770459732637757
+I50,Union#I50#I50 Heart failure,21460,2518,0.11733457595526561
+Block I70-I79,Union#Block I70-I79#I70-I79 Diseases of arteries| arterioles and capillaries,21368,2426,0.11353425683264695
+Block I95-I99,Union#Block I95-I99#I95-I99 Other and unspecified disorders of the circulatory system,21365,2423,0.11340978235431781
+I252,Union#I252#I25.2 Old myocardial infarction,21131,2189,0.10359187922956793
+I64,Union#I64#I64 Stroke| not specified as haemorrhage or infarction,21058,2116,0.10048437648399658
+I80,Union#I80#I80 Phlebitis and thrombophlebitis,21005,2063,0.09821471078314686
+I49,Union#I49#I49 Other cardiac arrhythmias,20903,1961,0.09381428503085681
+I219,Union#I219#I21.9 Acute myocardial infarction| unspecified,20798,1856,0.089239349937494
+Block I26-I28,Union#Block I26-I28#I26-I28 Pulmonary heart disease and diseases of pulmonary circulation,20774,1832,0.08818715702320208
+I849,Union#I849#I84.9 Unspecified haemorrhoids without complication,20670,1728,0.08359941944847606
+I73,Union#I73#I73 Other peripheral vascular diseases,20651,1709,0.08275628298871725
+I839,Union#I839#I83.9 Varicose veins of lower extremities without ulcer or inflammation,20546,1604,0.07806872383919011
+I959,Union#I959#I95.9 Hypotension| unspecified,20517,1575,0.0767656090071648
+I44,Union#I44#I44 Atrioventricular and left bundle-branch block,20488,1546,0.07545880515423663
+I802,Union#I802#I80.2 Phlebitis and thrombophlebitis of other deep vessels of lower extremities,20404,1462,0.07165261713389531
+I82,Union#I82#I82 Other venous embolism and thrombosis,20396,1454,0.07128848793881153
+I08,Union#I08#I08 Multiple valve diseases,20394,1452,0.07119741100323625
+I67,Union#I67#I67 Other cerebrovascular diseases,20393,1451,0.07115186583631639
+I26,Union#I26#I26 Pulmonary embolism,20374,1432,0.0702856581918131
+I214,Union#I214#I21.4 Acute subendocardial myocardial infarction,20304,1362,0.06708037825059102
+Block I05-I09,Union#Block I05-I09#I05-I09 Chronic rheumatic heart diseases,20281,1339,0.0660223854839505
+I63,Union#I63#I63 Cerebral infarction,20269,1327,0.06546943608466131
+I501,Union#I501#I50.1 Left ventricular failure,20247,1305,0.06445399318417544
+I517,Union#I517#I51.7 Cardiomegaly,20228,1286,0.06357524223848131
+I500,Union#I500#I50.0 Congestive heart failure,20123,1181,0.0586890622670576
+I258,Union#I258#I25.8 Other forms of chronic ischaemic heart disease,20064,1122,0.05592105263157895
+I269,Union#I269#I26.9 Pulmonary embolism without mention of acute cor pulmonale,20060,1118,0.055732801595214355
+I509,Union#I509#I50.9 Heart failure| unspecified,20051,1109,0.05530896214652636
+I34,Union#I34#I34 Nonrheumatic mitral valve disorders,19974,1032,0.051667167317512766
+I47,Union#I47#I47 Paroxysmal tachycardia,19941,999,0.05009778847600421
+I35,Union#I35#I35 Nonrheumatic aortic valve disorders,19939,997,0.0500025076483274
+I45,Union#I45#I45 Other conduction disorders,19874,932,0.046895441280064405
+I200,Union#I200#I20.0 Unstable angina,19863,921,0.046367618184564266
+I340,Union#I340#I34.0 Mitral (valve) insufficiency,19821,879,0.04434690479794158
+I518,Union#I518#I51.8 Other ill-defined heart diseases,19791,849,0.04289828710019706
+I739,Union#I739#I73.9 Peripheral vascular disease| unspecified,19779,837,0.04231760958592447
+I951,Union#I951#I95.1 Orthostatic hypotension,19776,834,0.04217233009708738
+I480,Union#I480#I48.0 Paroxysmal atrial fibrillation,19756,814,0.04120267260579064
+I27,Union#I27#I27 Other pulmonary heart diseases,19740,798,0.04042553191489362
+I213,Union#I213#I21.3 Acute transmural myocardial infarction of unspecified site,19692,750,0.038086532602071906
+I678,Union#I678#I67.8 Other specified cerebrovascular diseases,19679,737,0.03745108999441028
+I447,Union#I447#I44.7 Left bundle-branch block| unspecified,19664,722,0.03671684296175753
+I639,Union#I639#I63.9 Cerebral infarction| unspecified,19647,705,0.03588334096808673
+I451,Union#I451#I45.1 Other and unspecified right bundle-branch block,19622,680,0.03465497910508613
+I350,Union#I350#I35.0 Aortic (valve) stenosis,19588,646,0.03297937512762916
+I71,Union#I71#I71 Aortic aneurysm and dissection,19550,608,0.031099744245524297
+I471,Union#I471#I47.1 Supraventricular tachycardia,19533,591,0.030256489018583934
+I24,Union#I24#I24 Other acute ischaemic heart diseases,19479,537,0.027568150315724627
+I842,Union#I842#I84.2 Internal haemorrhoids without complication,19473,531,0.027268525650901248
+I679,Union#I679#I67.9 Cerebrovascular disease| unspecified,19469,527,0.027068673275463556
+I081,Union#I081#I08.1 Disorders of both mitral and tricuspid valves,19451,509,0.026168320394838313
+I440,Union#I440#I44.0 Atrioventricular block| first degree,19427,485,0.024965254542646833
+I270,Union#I270#I27.0 Primary pulmonary hypertension,19418,476,0.024513338139870222
+I846,Union#I846#I84.6 Residual haemorrhoidal skin tags,19417,475,0.024463099345933974
+I70,Union#I70#I70 Atherosclerosis,19415,473,0.024362606232294616
+I730,Union#I730#I73.0 Raynaud's syndrome,19410,468,0.0241112828438949
+I42,Union#I42#I42 Cardiomyopathy,19405,463,0.023859829940736925
+I77,Union#I77#I77 Other disorders of arteries and arterioles,19403,461,0.023759212492913465
+I31,Union#I31#I31 Other diseases of pericardium,19399,457,0.023557915356461675
+I69,Union#I69#I69 Sequelae of cerebrovascular disease,19377,435,0.022449295556587708
+I848,Union#I848#I84.8 Unspecified haemorrhoids with other complications,19375,433,0.022348387096774194
+I12,Union#I12#I12 Hypertensive renal disease,19369,427,0.02204553668232743
+I46,Union#I46#I46 Cardiac arrest,19348,406,0.020984081041968163
+I499,Union#I499#I49.9 Cardiac arrhythmia| unspecified,19340,398,0.020579110651499484
+I120,Union#I120#I12.0 Hypertensive renal disease with renal failure,19333,391,0.020224486629079812
+I211,Union#I211#I21.1 Acute transmural myocardial infarction of inferior wall,19317,375,0.019412952321789096
+I65,Union#I65#I65 Occlusion and stenosis of precerebral arteries| not resulting in cerebral infarction,19302,360,0.018650917003419334
+I272,Union#I272#I27.2 Other secondary pulmonary hypertension,19302,360,0.018650917003419334
+I89,Union#I89#I89 Other non-infective disorders of lymphatic vessels and lymph nodes,19283,341,0.017683970336565887
+I694,Union#I694#I69.4 Sequelae of stroke| not specified as haemorrhage or infarction,19277,335,0.017378222752502982
+I249,Union#I249#I24.9 Acute ischaemic heart disease| unspecified,19276,334,0.017327246316663207
+I714,Union#I714#I71.4 Abdominal aortic aneurysm| without mention of rupture,19269,327,0.016970263116923557
+I841,Union#I841#I84.1 Internal haemorrhoids with other complications,19266,324,0.016817190906259733
+I78,Union#I78#I78 Diseases of capillaries,19263,321,0.01666407101697555
+I208,Union#I208#I20.8 Other forms of angina pectoris,19262,320,0.016613020454781434
+I652,Union#I652#I65.2 Occlusion and stenosis of carotid artery,19260,318,0.016510903426791276
+I210,Union#I210#I21.0 Acute transmural myocardial infarction of anterior wall,19249,307,0.015948880461322666
+I083,Union#I083#I08.3 Combined disorders of mitral| aortic and tricuspid valves,19238,296,0.015386214783241502
+I313,Union#I313#I31.3 Pericardial effusion (noninflammatory),19232,290,0.015079034941763728
+I472,Union#I472#I47.2 Ventricular tachycardia,19225,283,0.014720416124837451
+I87,Union#I87#I87 Other disorders of veins,19220,278,0.014464099895941728
+I61,Union#I61#I61 Intracerebral haemorrhage,19216,274,0.014258950874271441
+I080,Union#I080#I08.0 Disorders of both mitral and aortic valves,19212,270,0.014053716427232979
+I07,Union#I07#I07 Rheumatic tricuspid valve diseases,19210,268,0.013951067152524727
+I74,Union#I74#I74 Arterial embolism and thrombosis,19205,263,0.013694350429575631
+I442,Union#I442#I44.2 Atrioventricular block| complete,19199,257,0.01338611386009688
+I635,Union#I635#I63.5 Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,19191,249,0.012974831952477724
+I460,Union#I460#I46.0 Cardiac arrest with successful resuscitation,19191,249,0.012974831952477724
+I351,Union#I351#I35.1 Aortic (valve) insufficiency,19188,246,0.01282051282051282
+I86,Union#I86#I86 Varicose veins of other sites,19182,240,0.012511729746637473
+I702,Union#I702#I70.2 Atherosclerosis of arteries of the extremities,19176,234,0.012202753441802253
+I420,Union#I420#I42.0 Dilated cardiomyopathy,19166,224,0.01168736303871439
+I071,Union#I071#I07.1 Tricuspid insufficiency,19157,215,0.01122305162603748
+I60,Union#I60#I60 Subarachnoid haemorrhage,19155,213,0.011119812059514487
+I771,Union#I771#I77.1 Stricture of artery,19152,210,0.010964912280701754
+I890,Union#I890#I89.0 Lymphoedema| not elsewhere classified,19145,203,0.01060329067641682
+I493,Union#I493#I49.3 Ventricular premature depolarisation,19143,201,0.010499921642375802
+I72,Union#I72#I72 Other aneurysm,19143,201,0.010499921642375802
+I469,Union#I469#I46.9 Cardiac arrest| unspecified,19139,197,0.010293118762735774
+I429,Union#I429#I42.9 Cardiomyopathy| unspecified,19127,185,0.00967219114340984
+I00,Union#I00#I00 Rheumatic fever without mention of heart involvement,19126,184,0.009620412004601066
+I441,Union#I441#I44.1 Atrioventricular block| second degree,19126,184,0.009620412004601066
+I481,Union#I481#I48.1 Persistent atrial fibrillation,19115,173,0.009050483913157206
+I05,Union#I05#I05 Rheumatic mitral valve diseases,19114,172,0.008998639740504343
+I700,Union#I700#I70.0 Atherosclerosis of aorta,19109,167,0.008739337484954734
+I619,Union#I619#I61.9 Intracerebral haemorrhage| unspecified,19107,165,0.008635578583765112
+I62,Union#I62#I62 Other nontraumatic intracranial haemorrhage,19106,164,0.008583690987124463
+I341,Union#I341#I34.1 Mitral (valve) prolapse,19102,160,0.008376086273688618
+I831,Union#I831#I83.1 Varicose veins of lower extremities with inflammation,19099,157,0.008220325671501126
+I495,Union#I495#I49.5 Sick sinus syndrome,19093,151,0.007908657623212696
+I7020,Union#I7020#I70.20 Atherosclerosis of arteries of extremities (without gangrene),19092,150,0.00785669390320553
+I38,Union#I38#I38 Endocarditis| valve unspecified,19091,149,0.0078047247394060024
+I743,Union#I743#I74.3 Embolism and thrombosis of arteries of the lower extremities,19079,137,0.00718066984642801
+I85,Union#I85#I85 Oesophageal varices,19073,131,0.006868347926388088
+I712,Union#I712#I71.2 Thoracic aortic aneurysm| without mention of rupture,19072,130,0.006816275167785235
+I7000,Union#I7000#I70.00 Atherosclerosis of aorta (without gangrene),19071,129,0.006764196948246028
+I255,Union#I255#I25.5 Ischaemic cardiomyopathy,19066,124,0.006503723906430295
+I498,Union#I498#I49.8 Other specified cardiac arrhythmias,19066,124,0.006503723906430295
+I781,Union#I781#I78.1 Naevus| nonneoplastic,19063,121,0.006347374495095211
+I859,Union#I859#I85.9 Oesophageal varices without bleeding,19063,121,0.006347374495095211
+I620,Union#I620#I62.0 Subdural haemorrhage (acute) (nontraumatic),19063,121,0.006347374495095211
+I319,Union#I319#I31.9 Disease of pericardium| unspecified,19061,119,0.006243114212265883
+I352,Union#I352#I35.2 Aortic (valve) stenosis with insufficiency,19059,117,0.006138832047851409
+I693,Union#I693#I69.3 Sequelae of cerebral infarction,19058,116,0.006086682757896946
+I845,Union#I845#I84.5 External haemorrhoids without complication,19056,114,0.005982367758186398
+I609,Union#I609#I60.9 Subarachnoid haemorrhage| unspecified,19056,114,0.005982367758186398
+I37,Union#I37#I37 Pulmonary valve disorders,19054,112,0.005878030859662013
+I872,Union#I872#I87.2 Venous insufficiency (chronic) (peripheral),19051,109,0.005721484436512519
+I11,Union#I11#I11 Hypertensive heart disease,19050,108,0.005669291338582677
+I671,Union#I671#I67.1 Cerebral aneurysm| nonruptured,19050,108,0.005669291338582677
+I672,Union#I672#I67.2 Cerebral atherosclerosis,19049,107,0.005617092760774844
+I719,Union#I719#I71.9 Aortic aneurysm of unspecified site| without mention of rupture,19049,107,0.005617092760774844
+I776,Union#I776#I77.6 Arteritis| unspecified,19047,105,0.005512679162072767
+I490,Union#I490#I49.0 Ventricular fibrillation and flutter,19047,105,0.005512679162072767
+I248,Union#I248#I24.8 Other forms of acute ischaemic heart disease,19042,100,0.0052515492070160695
+I371,Union#I371#I37.1 Pulmonary valve insufficiency,19039,97,0.0050948053994432484
+I22,Union#I22#I22 Subsequent myocardial infarction,19039,97,0.0050948053994432484
+I359,Union#I359#I35.9 Aortic valve disorder| unspecified,19037,95,0.004990282082260861
+I36,Union#I36#I36 Nonrheumatic tricuspid valve disorders,19035,93,0.004885736800630418
+I059,Union#I059#I05.9 Mitral valve disease| unspecified,19033,91,0.004781169547627804
+I494,Union#I494#I49.4 Other and unspecified premature depolarisation,19030,88,0.004624277456647399
+I361,Union#I361#I36.1 Nonrheumatic tricuspid (valve) insufficiency,19029,87,0.004571969099795049
+I482,Union#I482#I48.2 Chronic atrial fibrillation,19028,86,0.0045196552449022495
+I801,Union#I801#I80.1 Phlebitis and thrombophlebitis of femoral vein,19028,86,0.0045196552449022495
+I279,Union#I279#I27.9 Pulmonary heart disease| unspecified,19027,85,0.004467335891102118
+I99,Union#I99#I99 Other and unspecified disorders of circulatory system,19024,82,0.004310344827586207
+I30,Union#I30#I30 Acute pericarditis,19024,82,0.004310344827586207
+I119,Union#I119#I11.9 Hypertensive heart disease without (congestive) heart failure,19024,82,0.004310344827586207
+I33,Union#I33#I33 Acute and subacute endocarditis,19022,80,0.004205656608137946
+I952,Union#I952#I95.2 Hypotension due to drugs,19022,80,0.004205656608137946
+I638,Union#I638#I63.8 Other cerebral infarction,19020,78,0.004100946372239748
+I633,Union#I633#I63.3 Cerebral infarction due to thrombosis of cerebral arteries,19020,78,0.004100946372239748
+I129,Union#I129#I12.9 Hypertensive renal disease without renal failure,19020,78,0.004100946372239748
+I800,Union#I800#I80.0 Phlebitis and thrombophlebitis of superficial vessels of lower extremities,19018,76,0.003996214112945631
+I830,Union#I830#I83.0 Varicose veins of lower extremities with ulcer,19018,76,0.003996214112945631
+I088,Union#I088#I08.8 Other multiple valve diseases,19012,70,0.003681885125184094
+I330,Union#I330#I33.0 Acute and subacute infective endocarditis,19011,69,0.0036294776708221555
+I803,Union#I803#I80.3 Phlebitis and thrombophlebitis of lower extremities| unspecified,19009,67,0.0035246462202114786
+I082,Union#I082#I08.2 Disorders of both aortic and tricuspid valves,19008,66,0.003472222222222222
+I349,Union#I349#I34.9 Nonrheumatic mitral valve disorder| unspecified,19008,66,0.003472222222222222
+I828,Union#I828#I82.8 Embolism and thrombosis of other specified veins,19007,65,0.003419792707949703
+I422,Union#I422#I42.2 Other hypertrophic cardiomyopathy,19007,65,0.003419792707949703
+I229,Union#I229#I22.9 Subsequent myocardial infarction of unspecified site,19005,63,0.0033149171270718232
+I443,Union#I443#I44.3 Other and unspecified atrioventricular block,19005,63,0.0033149171270718232
+I358,Union#I358#I35.8 Other aortic valve disorders,19004,62,0.003262471058724479
+I779,Union#I779#I77.9 Disorder of arteries and arterioles| unspecified,19002,60,0.0031575623618566467
+I710,Union#I710#I71.0 Dissection of aorta [any part],19001,59,0.003105099731593074
+I98,Union#I98#I98 Other disorders of circulatory system in diseases classified elsewhere,18999,57,0.003000157903047529
+I459,Union#I459#I45.9 Conduction disorder| unspecified,18999,57,0.003000157903047529
+I708,Union#I708#I70.8 Atherosclerosis of other arteries,18999,57,0.003000157903047529
+I050,Union#I050#I05.0 Mitral stenosis,18998,56,0.0029476787030213707
+I982,Union#I982#I98.2 Oesophageal varices in diseases classified elsewhere,18997,55,0.0028951939779965257
+I713,Union#I713#I71.3 Abdominal aortic aneurysm| ruptured,18996,54,0.002842703727100442
+I808,Union#I808#I80.8 Phlebitis and thrombophlebitis of other sites,18995,53,0.0027902079494603843
+I844,Union#I844#I84.4 External haemorrhoids with other complications,18994,52,0.0027377066442034327
+I611,Union#I611#I61.1 Intracerebral haemorrhage in hemisphere| cortical,18994,52,0.0027377066442034327
+I491,Union#I491#I49.1 Atrial premature depolarisation,18994,52,0.0027377066442034327
+I724,Union#I724#I72.4 Aneurysm of artery of lower extremity,18994,52,0.0027377066442034327
+I634,Union#I634#I63.4 Cerebral infarction due to embolism of cerebral arteries,18992,50,0.002632687447346251
+I701,Union#I701#I70.1 Atherosclerosis of renal artery,18992,50,0.002632687447346251
+I240,Union#I240#I24.0 Coronary thrombosis not resulting in myocardial infarction,18991,49,0.002580169553999263
+I15,Union#I15#I15 Secondary hypertension,18991,49,0.002580169553999263
+I421,Union#I421#I42.1 Obstructive hypertrophic cardiomyopathy,18990,48,0.002527646129541864
+I778,Union#I778#I77.8 Other specified disorders of arteries and arterioles,18990,48,0.002527646129541864
+I052,Union#I052#I05.2 Mitral stenosis with insufficiency,18989,47,0.002475117173100216
+I452,Union#I452#I45.2 Bifascicular block,18988,46,0.002422582683800295
+I7021,Union#I7021#I70.21 Atherosclerosis of arteries of extremities (with gangrene),18986,44,0.002317497103128621
+I453,Union#I453#I45.3 Trifascicular block,18985,43,0.002264946010007901
+I878,Union#I878#I87.8 Other specified disorders of veins,18985,43,0.002264946010007901
+I745,Union#I745#I74.5 Embolism and thrombosis of iliac artery,18984,42,0.0022123893805309734
+I212,Union#I212#I21.2 Acute transmural myocardial infarction of other sites,18984,42,0.0022123893805309734
+I428,Union#I428#I42.8 Other cardiomyopathies,18983,41,0.0021598272138228943
+I871,Union#I871#I87.1 Compression of vein,18983,41,0.0021598272138228943
+I629,Union#I629#I62.9 Intracranial haemorrhage (nontraumatic)| unspecified,18983,41,0.0021598272138228943
+I7080,Union#I7080#I70.80 Atherosclerosis of other arteries (without gangrene),18983,41,0.0021598272138228943
+I81,Union#I81#I81 Portal vein thrombosis,18982,40,0.0021072595090085343
+I809,Union#I809#I80.9 Phlebitis and thrombophlebitis of unspecified site,18982,40,0.0021072595090085343
+I88,Union#I88#I88 Nonspecific lymphadenitis,18982,40,0.0021072595090085343
+I723,Union#I723#I72.3 Aneurysm of iliac artery,18981,39,0.002054686265212581
+I898,Union#I898#I89.8 Other specified non-infective disorders of lymphatic vessels and lymph nodes,18980,38,0.0020021074815595365
+I455,Union#I455#I45.5 Other specified heart block,18980,38,0.0020021074815595365
+I843,Union#I843#I84.3 External thrombosed haemorrhoids,18980,38,0.0020021074815595365
+I110,Union#I110#I11.0 Hypertensive heart disease with (congestive) heart failure,18979,37,0.0019495231571737184
+I97,Union#I97#I97 Postprocedural disorders of circulatory system| not elsewhere classified,18979,37,0.0019495231571737184
+I728,Union#I728#I72.8 Aneurysm of other specified arteries,18978,36,0.0018969332911792601
+I632,Union#I632#I63.2 Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,18978,36,0.0018969332911792601
+I201,Union#I201#I20.1 Angina pectoris with documented spasm,18977,35,0.0018443378827001106
+I861,Union#I861#I86.1 Scrotal varices,18977,35,0.0018443378827001106
+I709,Union#I709#I70.9 Generalised and unspecified atherosclerosis,18977,35,0.0018443378827001106
+I514,Union#I514#I51.4 Myocarditis| unspecified,18976,34,0.0017917369308600337
+I483,Union#I483#I48.3 Typical atrial flutter,18976,34,0.0017917369308600337
+I864,Union#I864#I86.4 Gastric varices,18976,34,0.0017917369308600337
+I13,Union#I13#I13 Hypertensive heart and renal disease,18975,33,0.0017391304347826088
+I7010,Union#I7010#I70.10 Atherosclerosis of renal artery (without gangrene),18973,31,0.0016339008064091077
+I868,Union#I868#I86.8 Varicose veins of other specified sites,18973,31,0.0016339008064091077
+I516,Union#I516#I51.6 Cardiovascular disease| unspecified,18973,31,0.0016339008064091077
+I260,Union#I260#I26.0 Pulmonary embolism with mention of acute cor pulmonale,18973,31,0.0016339008064091077
+I309,Union#I309#I30.9 Acute pericarditis| unspecified,18973,31,0.0016339008064091077
+I456,Union#I456#I45.6 Preexcitation syndrome,18973,31,0.0016339008064091077
+I742,Union#I742#I74.2 Embolism and thrombosis of arteries of the upper extremities,18972,30,0.0015812776723592662
+I68,Union#I68#I68 Cerebrovascular disorders in diseases classified elsewhere,18972,30,0.0015812776723592662
+I79,Union#I79#I79 Disorders of arteries| arterioles and capillaries in diseases classified elsewhere,18972,30,0.0015812776723592662
+I615,Union#I615#I61.5 Intracerebral haemorrhage| intraventricular,18972,30,0.0015812776723592662
+I698,Union#I698#I69.8 Sequelae of other and unspecified cerebrovascular diseases,18971,29,0.0015286489905645458
+I151,Union#I151#I15.1 Hypertension secondary to other renal disorders,18971,29,0.0015286489905645458
+I832,Union#I832#I83.2 Varicose veins of lower extremities with both ulcer and inflammation,18970,28,0.0014760147601476014
+I602,Union#I602#I60.2 Subarachnoid haemorrhage from anterior communicating artery,18970,28,0.0014760147601476014
+I691,Union#I691#I69.1 Sequelae of intracerebral haemorrhage,18970,28,0.0014760147601476014
+I792,Union#I792#I79.2 Peripheral angiopathy in diseases classified elsewhere,18970,28,0.0014760147601476014
+I312,Union#I312#I31.2 Haemopericardium| not elsewhere classified,18969,27,0.001423374980230903
+I278,Union#I278#I27.8 Other specified pulmonary heart diseases,18969,27,0.001423374980230903
+I680,Union#I680#I68.0 Cerebral amyloid angiopathy,18969,27,0.001423374980230903
+I66,Union#I66#I66 Occlusion and stenosis of cerebral arteries| not resulting in cerebral infarction,18968,26,0.0013707296499367355
+I09,Union#I09#I09 Other rheumatic heart diseases,18968,26,0.0013707296499367355
+I253,Union#I253#I25.3 Aneurysm of heart,18967,25,0.0013180787683871988
+I780,Union#I780#I78.0 Hereditary haemorrhagic telangiectasia,18967,25,0.0013180787683871988
+I446,Union#I446#I44.6 Other and unspecified fascicular block,18967,25,0.0013180787683871988
+I254,Union#I254#I25.4 Coronary artery aneurysm,18967,25,0.0013180787683871988
+I891,Union#I891#I89.1 Lymphangitis,18966,24,0.0012654223347042075
+I847,Union#I847#I84.7 Unspecified thrombosed haemorrhoids,18966,24,0.0012654223347042075
+I458,Union#I458#I45.8 Other specified conduction disorders,18965,23,0.0012127603480094912
+I051,Union#I051#I05.1 Rheumatic mitral insufficiency,18965,23,0.0012127603480094912
+I822,Union#I822#I82.2 Embolism and thrombosis of vena cava,18965,23,0.0012127603480094912
+I610,Union#I610#I61.0 Intracerebral haemorrhage in hemisphere| subcortical,18965,23,0.0012127603480094912
+I479,Union#I479#I47.9 Paroxysmal tachycardia| unspecified,18965,23,0.0012127603480094912
+I690,Union#I690#I69.0 Sequelae of subarachnoid haemorrhage,18964,22,0.001160092807424594
+I454,Union#I454#I45.4 Nonspecific intraventricular block,18964,22,0.001160092807424594
+I342,Union#I342#I34.2 Nonrheumatic mitral (valve) stenosis,18964,22,0.001160092807424594
+I28,Union#I28#I28 Other diseases of pulmonary vessels,18964,22,0.001160092807424594
+I850,Union#I850#I85.0 Oesophageal varices with bleeding,18963,21,0.0011074197120708748
+I099,Union#I099#I09.9 Rheumatic heart disease| unspecified,18962,20,0.0010547410610695074
+I618,Union#I618#I61.8 Other intracerebral haemorrhage,18962,20,0.0010547410610695074
+I720,Union#I720#I72.0 Aneurysm of carotid artery,18962,20,0.0010547410610695074
+I770,Union#I770#I77.0 Arteriovenous fistula| acquired,18962,20,0.0010547410610695074
+I840,Union#I840#I84.0 Internal thrombosed haemorrhoids,18961,19,0.00100205685354148
+I741,Union#I741#I74.1 Embolism and thrombosis of other and unspecified parts of aorta,18961,19,0.00100205685354148
+I608,Union#I608#I60.8 Other subarachnoid haemorrhage,18961,19,0.00100205685354148
+I06,Union#I06#I06 Rheumatic aortic valve diseases,18961,19,0.00100205685354148
+I958,Union#I958#I95.8 Other hypotension,18960,18,0.0009493670886075949
+I650,Union#I650#I65.0 Occlusion and stenosis of vertebral artery,18960,18,0.0009493670886075949
+I738,Union#I738#I73.8 Other specified peripheral vascular diseases,18958,16,0.0008439708830045363
+I749,Union#I749#I74.9 Embolism and thrombosis of unspecified artery,18958,16,0.0008439708830045363
+I132,Union#I132#I13.2 Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,18958,16,0.0008439708830045363
+I972,Union#I972#I97.2 Postmastectomy lymphoedema syndrome,18958,16,0.0008439708830045363
+I601,Union#I601#I60.1 Subarachnoid haemorrhage from middle cerebral artery,18958,16,0.0008439708830045363
+I43,Union#I43#I43 Cardiomyopathy in diseases classified elsewhere,18958,16,0.0008439708830045363
+I220,Union#I220#I22.0 Subsequent myocardial infarction of anterior wall,18958,16,0.0008439708830045363
+I653,Union#I653#I65.3 Occlusion and stenosis of multiple and bilateral precerebral arteries,18957,15,0.0007912644405760405
+I513,Union#I513#I51.3 Intracardiac thrombosis| not elsewhere classified,18957,15,0.0007912644405760405
+I139,Union#I139#I13.9 Hypertensive heart and renal disease| unspecified,18956,14,0.0007385524372230429
+I630,Union#I630#I63.0 Cerebral infarction due to thrombosis of precerebral arteries,18956,14,0.0007385524372230429
+I510,Union#I510#I51.0 Cardiac septal defect| acquired,18956,14,0.0007385524372230429
+I748,Union#I748#I74.8 Embolism and thrombosis of other arteries,18956,14,0.0007385524372230429
+I221,Union#I221#I22.1 Subsequent myocardial infarction of inferior wall,18956,14,0.0007385524372230429
+I603,Union#I603#I60.3 Subarachnoid haemorrhage from posterior communicating artery,18956,14,0.0007385524372230429
+I23,Union#I23#I23 Certain current complications following acute myocardial infarction,18955,13,0.0006858348720654181
+I829,Union#I829#I82.9 Embolism and thrombosis of unspecified vein,18955,13,0.0006858348720654181
+I288,Union#I288#I28.8 Other specified diseases of pulmonary vessels,18955,13,0.0006858348720654181
+I614,Union#I614#I61.4 Intracerebral haemorrhage in cerebellum,18955,13,0.0006858348720654181
+I729,Union#I729#I72.9 Aneurysm of unspecified site,18954,12,0.0006331117442228553
+I692,Union#I692#I69.2 Sequelae of other nontraumatic intracranial haemorrhage,18954,12,0.0006331117442228553
+I515,Union#I515#I51.5 Myocardial degeneration,18954,12,0.0006331117442228553
+I159,Union#I159#I15.9 Seconday hypertension| unspecified,18954,12,0.0006331117442228553
+I310,Union#I310#I31.0 Chronic adhesive pericarditis,18953,11,0.0005803830528148578
+I348,Union#I348#I34.8 Other nonrheumatic mitral valve disorders,18953,11,0.0005803830528148578
+I484,Union#I484#I48.4 Atypical atrial flutter,18953,11,0.0005803830528148578
+I250,Union#I250#I25.0 Atherosclerotic cardiovascular disease| so described,18953,11,0.0005803830528148578
+I426,Union#I426#I42.6 Alcoholic cardiomyopathy,18953,11,0.0005803830528148578
+I431,Union#I431#I43.1 Cardiomyopathy in metabolic diseases,18953,11,0.0005803830528148578
+I722,Union#I722#I72.2 Aneurysm of renal artery,18953,11,0.0005803830528148578
+I950,Union#I950#I95.0 Idiopathic hypotension,18953,11,0.0005803830528148578
+I716,Union#I716#I71.6 Thoracoabdominal aortic aneurysm| without mention of rupture,18953,11,0.0005803830528148578
+I899,Union#I899#I89.9 Non-infective disorder of lymphatic vessels and lymph nodes| unspecified,18952,10,0.000527648796960743
+I740,Union#I740#I74.0 Embolism and thrombosis of abdominal aorta,18952,10,0.000527648796960743
+I40,Union#I40#I40 Acute myocarditis,18952,10,0.000527648796960743
+I470,Union#I470#I47.0 Reentry ventricular arrhythmia,18952,10,0.000527648796960743
+I311,Union#I311#I31.1 Chronic constrictive pericarditis,18952,10,0.000527648796960743
+I511,Union#I511#I51.1 Rupture of chordae tendineae| not elsewhere classified,18951,9,0.0004749089757796422
+I613,Union#I613#I61.3 Intracerebral haemorrhage in brain stem,18951,9,0.0004749089757796422
+I772,Union#I772#I77.2 Rupture of artery,18951,9,0.0004749089757796422
+I427,Union#I427#I42.7 Cardiomyopathy due to drugs and other external agents,18951,9,0.0004749089757796422
+I971,Union#I971#I97.1 Other functional disturbances following cardiac surgery,18951,9,0.0004749089757796422
+I606,Union#I606#I60.6 Subarachnoid haemorrhage from other intracranial arteries,18951,9,0.0004749089757796422
+I7090,Union#I7090#I70.90 Generalized and unspecified atherosclerosis (without gangrene),18950,8,0.00042216358839050134
+I058,Union#I058#I05.8 Other mitral valve diseases,18950,8,0.00042216358839050134
+I150,Union#I150#I15.0 Renovascular hypertension,18950,8,0.00042216358839050134
+I677,Union#I677#I67.7 Cerebral arteritis| not elsewhere classified,18950,8,0.00042216358839050134
+I669,Union#I669#I66.9 Occlusion and stenosis of unspecified cerebral artery,18950,8,0.00042216358839050134
+I711,Union#I711#I71.1 Thoracic aortic aneurysm| ruptured,18950,8,0.00042216358839050134
+I870,Union#I870#I87.0 Postphlebitic syndrome,18950,8,0.00042216358839050134
+I228,Union#I228#I22.8 Subsequent myocardial infarction of other sites,18950,8,0.00042216358839050134
+I444,Union#I444#I44.4 Left anterior fascicular block,18950,8,0.00042216358839050134
+I130,Union#I130#I13.0 Hypertensive heart and renal disease with (congestive) heart failure,18950,8,0.00042216358839050134
+I889,Union#I889#I88.9 Nonspecific lymphadenitis| unspecified,18950,8,0.00042216358839050134
+I879,Union#I879#I87.9 Disorder of vein| unspecified,18950,8,0.00042216358839050134
+I823,Union#I823#I82.3 Embolism and thrombosis of renal vein,18949,7,0.0003694126339120798
+I660,Union#I660#I66.0 Occlusion and stenosis of middle cerebral artery,18949,7,0.0003694126339120798
+I607,Union#I607#I60.7 Subarachnoid haemorrhage from intracranial artery| unspecified,18949,7,0.0003694126339120798
+I788,Union#I788#I78.8 Other diseases of capillaries,18949,7,0.0003694126339120798
+I978,Union#I978#I97.8 Other postprocedural disorders of circulatory system| not elsewhere classified,18949,7,0.0003694126339120798
+I089,Union#I089#I08.9 Multiple valve disease| unspecified,18948,6,0.00031665611146295124
+I820,Union#I820#I82.0 Budd-Chiari syndrome,18948,6,0.00031665611146295124
+I674,Union#I674#I67.4 Hypertensive encephalopathy,18948,6,0.00031665611146295124
+I616,Union#I616#I61.6 Intracerebral haemorrhage| multiple localised,18948,6,0.00031665611146295124
+I612,Union#I612#I61.2 Intracerebral haemorrhage in hemisphere| unspecified,18948,6,0.00031665611146295124
+I238,Union#I238#I23.8 Other current complications following acute myocardial infarction,18948,6,0.00031665611146295124
+I061,Union#I061#I06.1 Rheumatic aortic insufficiency,18947,5,0.00026389402016150314
+Block I00-I02,Union#Block I00-I02#I00-I02 Acute rheumatic fever,18947,5,0.00026389402016150314
+I721,Union#I721#I72.1 Aneurysm of artery of upper extremity,18947,5,0.00026389402016150314
+I744,Union#I744#I74.4 Embolism and thrombosis of arteries of extremities| unspecified,18947,5,0.00026389402016150314
+I631,Union#I631#I63.1 Cerebral infarction due to embolism of precerebral arteries,18947,5,0.00026389402016150314
+I339,Union#I339#I33.9 Acute endocarditis| unspecified,18947,5,0.00026389402016150314
+I461,Union#I461#I46.1 Sudden cardiac death| so described,18947,5,0.00026389402016150314
+I301,Union#I301#I30.1 Infective pericarditis,18947,5,0.00026389402016150314
+I604,Union#I604#I60.4 Subarachnoid haemorrhage from basilar artery,18947,5,0.00026389402016150314
+I280,Union#I280#I28.0 Arteriovenous fistula of pulmonary vessels,18947,5,0.00026389402016150314
+I651,Union#I651#I65.1 Occlusion and stenosis of basilar artery,18947,5,0.00026389402016150314
+I983,Union#I983#I98.3 Oesophageal varices with bleeding in diseases classified elsewhere,18947,5,0.00026389402016150314

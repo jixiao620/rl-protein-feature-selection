@@ -1,0 +1,19 @@
+name: rlfs
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=12.1
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+    - torch

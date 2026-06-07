@@ -1,0 +1,36 @@
+library,term,n_seeds,mean_combined_score
+KEGG_2021_Human,Cytokine-cytokine receptor interaction,7,31.21
+KEGG_2021_Human,Cell adhesion molecules,5,17.97
+KEGG_2021_Human,JAK-STAT signaling pathway,5,16.72
+KEGG_2021_Human,Fluid shear stress and atherosclerosis,4,26.41
+KEGG_2021_Human,Pathways in cancer,4,10.27
+KEGG_2021_Human,Thiamine metabolism,3,220.1
+KEGG_2021_Human,Vitamin digestion and absorption,3,142.37
+KEGG_2021_Human,Adherens junction,3,34.78
+KEGG_2021_Human,IL-17 signaling pathway,3,29.72
+MSigDB_Hallmark_2020,IL-6/JAK/STAT3 Signaling,9,44.79
+MSigDB_Hallmark_2020,Epithelial Mesenchymal Transition,8,25.25
+MSigDB_Hallmark_2020,Apoptosis,8,12.88
+MSigDB_Hallmark_2020,Complement,7,13.8
+MSigDB_Hallmark_2020,IL-2/STAT5 Signaling,7,11.11
+MSigDB_Hallmark_2020,Apical Surface,6,21.05
+MSigDB_Hallmark_2020,Myogenesis,6,18.48
+MSigDB_Hallmark_2020,Coagulation,6,14.07
+MSigDB_Hallmark_2020,UV Response Dn,6,9.26
+MSigDB_Hallmark_2020,UV Response Up,6,7.26
+MSigDB_Hallmark_2020,TNF-alpha Signaling via NF-kB,5,31.6
+MSigDB_Hallmark_2020,DNA Repair,5,22.88
+MSigDB_Hallmark_2020,Inflammatory Response,5,22.82
+MSigDB_Hallmark_2020,Myc Targets V2,5,14.0
+MSigDB_Hallmark_2020,KRAS Signaling Up,5,9.98
+MSigDB_Hallmark_2020,PI3K/AKT/mTOR  Signaling,5,9.39
+MSigDB_Hallmark_2020,Glycolysis,5,8.86
+MSigDB_Hallmark_2020,Unfolded Protein Response,5,8.39
+MSigDB_Hallmark_2020,Interferon Gamma Response,5,7.61
+MSigDB_Hallmark_2020,Apical Junction,5,7.37
+Reactome_2022,Immune System R-HSA-168256,6,15.92
+Reactome_2022,Immunoregulatory Interactions Between A Lymphoid And A non-Lymphoid Cell R-HSA-198933,3,30.01
+Reactome_2022,Peptide Ligand-Binding Receptors R-HSA-375276,3,26.59
+Reactome_2022,Signaling By Interleukins R-HSA-449147,3,21.76
+Reactome_2022,Class A/1 (Rhodopsin-like Receptors) R-HSA-373076,3,13.95
+Reactome_2022,Hemostasis R-HSA-109582,3,13.83

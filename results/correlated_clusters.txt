@@ -1,0 +1,63 @@
+Correlated Protein Clusters (|r| > 0.7 threshold)
+Identified from 146 proteins selected across seeds 42 / 1 / 2
+====================================================================
+
+Only 3 clusters contained multiple members.
+For each cluster, one representative was chosen as the protein with
+the highest mean |Spearman r| to all other members in the cluster.
+The remaining members were removed from the minimal set.
+
+--------------------------------------------------------------------
+Cluster 1 — 8 members  (seeds contributing: 42, 1, 2)
+--------------------------------------------------------------------
+  Members:
+    MPHOSPH8   (M-phase phosphoprotein 8)
+    LAT        (Linker for activation of T cells)
+    RHOC       (Rho-related GTP-binding protein RhoC)
+    TXLNA      (Alpha-taxilin)
+    TDRKH      (Tudor and KH domain-containing protein)
+    AP3S2      (AP-3 complex subunit sigma-2)
+    LAT2       (Linker for activation of T cells family member 2)
+    PPP2R5A    (Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha)
+
+  >> Representative chosen: RHOC (P08134) — Neurology panel
+
+--------------------------------------------------------------------
+Cluster 2 — 3 members  (seeds contributing: 42, 2)
+--------------------------------------------------------------------
+  Members:
+    MIF        (Macrophage migration inhibitory factor)
+    IMPACT     (Protein IMPACT)
+    FKBPL      (FK506-binding protein-like)
+
+  >> Representative chosen: MIF (P14174) — Neurology panel
+
+--------------------------------------------------------------------
+Cluster 3 — 2 members  (seeds contributing: 42, 2)
+--------------------------------------------------------------------
+  Members:
+    DNMBP      (Dynamin-binding protein)
+    AZI2       (5-azacytidine-induced protein 2)
+
+  >> Representative chosen: AZI2 (Q9H6S1) — NeurologyII panel
+
+====================================================================
+Summary: 146 total → 10 removed (8-1 + 3-1 + 2-1) → 136 minimal set
+
+
+====================================================================
+Cross-seed Overlapping Proteins (selected by 2 seeds simultaneously)
+50 × 3 seeds = 150 selections, minus 4 duplicates = 146 unique proteins
+====================================================================
+
+seed42 ∩ seed1  (1 protein):
+    F12        (P00748)  InflammationII   feat_idx=1420
+
+seed42 ∩ seed2  (2 proteins):
+    AZI2       (Q9H6S1)  NeurologyII      feat_idx=2104
+    KIAA0319   (Q5VV43)  NeurologyII      feat_idx=2141
+
+seed1  ∩ seed2  (1 protein):
+    PDRG1      (Q9NUG6)  NeurologyII      feat_idx=1960
+
+Note: no protein was selected by all 3 seeds simultaneously.

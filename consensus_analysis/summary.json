@@ -1,0 +1,19 @@
+{
+  "n_seeds": 10,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    42
+  ],
+  "consensus_threshold": 5,
+  "n_consensus_proteins": 0,
+  "consensus_proteins": [],
+  "n_seen_by_any_seed": 457
+}
