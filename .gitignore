@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+logs/
+runs/
+wandb/
+generalization_results*/
+*.tar
+*.zip
+.ipynb_checkpoints/
+.DS_Store
+slides_cg.tex
